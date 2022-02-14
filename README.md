@@ -9,7 +9,7 @@
 
  - *Curso Análise de Sistema na Estácio* 
  
- - *Forma em Técnico em Desenvolvimento de Sistemas* 
+ - *Formado em Técnico em Desenvolvimento de Sistemas* 
  
  - *Programador na Empresa [Atx Soluções](http://www.atxsolucoes.com/site/) 💻*
  
