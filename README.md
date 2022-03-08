@@ -15,7 +15,7 @@
  
  - *Desenvolvedor Full Stack com Enfâse em Front - End*
  
- - *Sempre aprendendo buscando o melhor de mim* 
+ - *Sempre buscando e aprendendo o melhor de mim* 
  
 ## 📊 Minhas Estatísticas
   
