@@ -1,23 +1,25 @@
-## Olá! Bem Vindo sou Matheus Souza 😎
+## Hello! Welcome, I am Matheus Souza 😎
 
 <div width='100%'>
   <img src="https://i.pinimg.com/originals/9c/e8/b4/9ce8b42e5cface0737c16fd3eae31749.gif" alt="coding" width="100%" height="300" />
 <div>
 
-## 💡 Sobre mim :
- - *Me chamo Matheus Souza, sou de Manaus - AM* 
+## 💡 About Me :
+ - *My name is Matheus Souza, i'm from Manaus - AM* 
 
- - *Curso Análise de Sistema na Estácio* 
+ - *System Analysis Course at Estácio* 
  
- - *Formado em Técnico em Desenvolvimento de Sistemas* 
+ - *Trained in Systems Development Technician* 
+  
+ - *Trained in Application Development Technician* 
  
- - *Programador na Empresa [Atx Soluções](http://www.atxsolucoes.com/site/) 💻*
+ - *Programmer in the Company [Atx Soluções](http://www.atxsolucoes.com/site/) 💻*
  
- - *Desenvolvedor Full Stack com Enfâse em Front - End*
+ - *Developer Full Stack with emphasis in Front End*
  
- - *Sempre buscando e aprendendo o melhor de mim* 
+ - *Always seeking and learning the best of me* 
  
-## 📊 Minhas Estatísticas
+## 📊 My Statistics
   
 <br>
 <div align="center">
