@@ -13,7 +13,7 @@
   
  - *Trained in Application Development Technician* 
  
- - *Programmer in the Company [Atx Soluções](http://www.atxsolucoes.com/site/) 💻*
+ - *Systems Analyst [FPFTech](https://fpftech.com) 💻*
  
  - *Developer Full Stack with emphasis in Front End*
  
@@ -42,7 +42,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/matheus-souza-2b8575144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matheus_souza.f/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheus_souza.sh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:j.matheussouza2019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://bit.ly/3gHkStG" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <!--   ![Snake animation](https://github.com/superTheus/superTheus/blob/output/github-contribution-grid-snake.svg)  -->
