@@ -13,7 +13,7 @@
   
  - *Trained in Application Development Technician* 
  
- - *Systems Analyst [FPFTech](https://fpftech.com) 💻*
+ - *Systems Analyst [Logic Softwares](https://logicsoftwares.com.br/) 💻*
  
  - *Developer Full Stack with emphasis in Front End*
  
