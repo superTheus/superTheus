@@ -62,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/superTheus/superTheus/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/superTheus/superTheus/blob/output/snake.svg" alt="Snake animation" />
 
 ###
